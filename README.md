@@ -1,7 +1,7 @@
 
 <h1 id="title" align="center">sea2horses ~ 🪷</h1>
 I HAVE TO WRITE THIS PROESSIONALLY TO NOT GET FLAMED<br><br>
-Currently a <strong>Systems Engineering</strong> and <strong>Design & Visual Communication</strong> student. Versatile and passionate programmer with experience in software development, game design, and programming language creation. Skilled in C#, Python, and JavaScript, with a strong background in software design, data structures, and full-stack web development. Known for combining technical proficiency with a practical approach to problem-solving and optimization.<br><br>
+Currently a <strong>Systems Engineering</strong> and <strong>Design & Visual Communication</strong> student. Versatile and passionate programmer with experience in software development, game design, and programming language creation. Skilled in C#, Python, and FrontEnd Web Development, with a strong background in software design, data structures, and full-stack web development. Known for combining technical proficiency with a practical approach to problem-solving and optimization.<br><br>
 
 <p align="center"><img src="./nerdassshit.gif" width="50%"></p>
 
