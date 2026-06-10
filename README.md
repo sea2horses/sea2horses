@@ -25,7 +25,7 @@ Rust for CLI and TUI development.
 C for barebones development, coursed CS50X.
 <br><br>
 
-<h2>Technologies & Tools 🚀</h2>
+<h2>Technologies & Tools </h2>
 
 
 <p align="center">
